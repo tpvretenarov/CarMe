@@ -42,10 +42,6 @@ public class MainActivity extends AppCompatActivity {
         //receives data from the database, in this case all the documents in the cars collection that was added by the sale activity
 
 
-        carFrame = findViewById(R.id.carFrame);
-        
-            for(i = 0; i < 10; i++) {
-            //multiple doc call
             db.collection("cars")
                     .get()
                     .addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
@@ -63,7 +59,7 @@ public class MainActivity extends AppCompatActivity {
                         }
                     });
 
-            }
+            
 
 
         //single doc code :working
