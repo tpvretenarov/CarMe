@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CarMe</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="add_sale">Add Sale</string>
+    <string name="name">Name</string>
+    <string name="price">Price</string>
+    <string name="vehicle_make_model_and_year">Vehicle make, model, and year</string>
+    <string name="price_of_vehicle">Price of vehicle</string>
+    <string name="put_up">Put up</string>
+    <string name="cancel">Cancel</string>
+    <string name="pic_url">Pic url</string>
+</resources>

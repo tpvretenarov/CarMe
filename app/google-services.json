@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "129900520587",
+    "firebase_url": "https://carme-93554.firebaseio.com",
+    "project_id": "carme-93554",
+    "storage_bucket": "carme-93554.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129900520587:android:540693608d129055",
+        "android_client_info": {
+          "package_name": "com.example.todor.carme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129900520587-ggs3vvdck3pcnbbed80uispbfai8tktk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todor.carme",
+            "certificate_hash": "875e3129d85c7b00d0e2da36dfaddea4b15ddffd"
+          }
+        },
+        {
+          "client_id": "129900520587-aotkveg061gl2n6rbgbappgl3ifejocq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2soG1a1gpWnf_AlWTtHFr2MCcEMUBd7w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129900520587-aotkveg061gl2n6rbgbappgl3ifejocq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
